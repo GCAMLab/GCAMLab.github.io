@@ -2,13 +2,9 @@
   photo: Yu.jpg
   info: Professor
   email: milan.allan@gmail.com
-  number_educ: 6
+  number_educ: 2
   education1: Vice-Dean, Southeast University - Monash University Joint Graduate School, Suzhou
-  education2: Senior Principal Research Fellow, Southeast University - Monash University Joint Research Institute, Suzhou
-  education3: Chemical Engineering, PhD, University of Newcastle
-  education4: Mechanical Engineering, Master of Science, Liaoning Technical University
-  education5: Materials Science and Engineering, Bachelor of Science, Liaoning Technical University
-  education6: <a href="https://research.monash.edu/en/persons/jianglong-yu"> Personal profile </a>
+  education2: <a href="https://research.monash.edu/en/persons/jianglong-yu"> Personal profile </a>
 
 - name: Jianfeng (Jacky) Ge
   photo: Jacky.jpg
