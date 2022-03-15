@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications see [Google Scholar](https://scholar.google.com.au/citations?user=orOB6kMAAAAJ&hl=en)
+(For a full list of publications see [Google Scholar](https://scholar.google.com.au/citations?user=orOB6kMAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
