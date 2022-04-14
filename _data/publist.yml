@@ -8,13 +8,13 @@
   highlight: 1
   news2:
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "Construction of vitrinite molecular structures based on 13C NMR and FT-IR analysis: Fundamental insight into coal thermoplastic properties"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: This study establishes a new method to evaluate the structure and reactivity of vitrinites with different ranks at the microscopic level. The fluidity of coal is essentially explained from the perspective of the molecular structure, and the correlation between the molecular structure and the fluidity of vitrinite is given qualitatively. The correlation between vitrinite structure and plasticity provides theoretical support for coal blending and coal substitution and provides new ideas and methods for predicting coke quality.
+  authors: J Wang, L Tian, G Li, X Zhao, Y Liang, J Yu
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://www.sciencedirect.com/science/article/pii/S0016236121008589
+    display:  Fuel, 300, 2021
   highlight: 0
   news2:
 
